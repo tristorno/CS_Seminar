@@ -1,0 +1,15 @@
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/bin/Debug/net6.0/Sem2-14
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/bin/Debug/net6.0/Sem2-14.deps.json
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/bin/Debug/net6.0/Sem2-14.runtimeconfig.json
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/bin/Debug/net6.0/Sem2-14.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/bin/Debug/net6.0/ref/Sem2-14.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/bin/Debug/net6.0/Sem2-14.pdb
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/obj/Debug/net6.0/Sem2-14.csproj.AssemblyReference.cache
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/obj/Debug/net6.0/Sem2-14.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/obj/Debug/net6.0/Sem2-14.AssemblyInfoInputs.cache
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/obj/Debug/net6.0/Sem2-14.AssemblyInfo.cs
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/obj/Debug/net6.0/Sem2-14.csproj.CoreCompileInputs.cache
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/obj/Debug/net6.0/Sem2-14.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/obj/Debug/net6.0/ref/Sem2-14.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/obj/Debug/net6.0/Sem2-14.pdb
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem2-14/obj/Debug/net6.0/Sem2-14.genruntimeconfig.cache
