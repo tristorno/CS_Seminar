@@ -1,0 +1,15 @@
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/obj/Debug/net6.0/Sem3-21.csproj.AssemblyReference.cache
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/obj/Debug/net6.0/Sem3-21.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/obj/Debug/net6.0/Sem3-21.AssemblyInfoInputs.cache
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/obj/Debug/net6.0/Sem3-21.AssemblyInfo.cs
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/obj/Debug/net6.0/Sem3-21.csproj.CoreCompileInputs.cache
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/bin/Debug/net6.0/Sem3-21
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/bin/Debug/net6.0/Sem3-21.deps.json
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/bin/Debug/net6.0/Sem3-21.runtimeconfig.json
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/bin/Debug/net6.0/Sem3-21.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/bin/Debug/net6.0/ref/Sem3-21.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/bin/Debug/net6.0/Sem3-21.pdb
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/obj/Debug/net6.0/Sem3-21.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/obj/Debug/net6.0/ref/Sem3-21.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/obj/Debug/net6.0/Sem3-21.pdb
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem3-21/obj/Debug/net6.0/Sem3-21.genruntimeconfig.cache
