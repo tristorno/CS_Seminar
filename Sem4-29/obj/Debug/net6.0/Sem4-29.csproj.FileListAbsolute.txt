@@ -1,0 +1,15 @@
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/obj/Debug/net6.0/Sem4-29.csproj.AssemblyReference.cache
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/obj/Debug/net6.0/Sem4-29.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/obj/Debug/net6.0/Sem4-29.AssemblyInfoInputs.cache
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/obj/Debug/net6.0/Sem4-29.AssemblyInfo.cs
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/obj/Debug/net6.0/Sem4-29.csproj.CoreCompileInputs.cache
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/bin/Debug/net6.0/Sem4-29
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/bin/Debug/net6.0/Sem4-29.deps.json
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/bin/Debug/net6.0/Sem4-29.runtimeconfig.json
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/bin/Debug/net6.0/Sem4-29.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/bin/Debug/net6.0/ref/Sem4-29.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/bin/Debug/net6.0/Sem4-29.pdb
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/obj/Debug/net6.0/Sem4-29.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/obj/Debug/net6.0/ref/Sem4-29.dll
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/obj/Debug/net6.0/Sem4-29.pdb
+/home/vlad/Документы/Geekbrains/CS/CS_Seminar/Sem4-29/obj/Debug/net6.0/Sem4-29.genruntimeconfig.cache
