@@ -7,7 +7,7 @@ double[] GenArray()
     double[] array = new double [rnd.Next(5,10000)];
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = /*Convert.ToDouble (rnd.Next(-999;1000)) +*/ rnd.NextDouble();
+        array[i] = Convert.ToDouble (rnd.Next(-999,1000))  + rnd.NextDouble();
     }
     return array;
 }    
