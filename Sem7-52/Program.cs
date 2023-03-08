@@ -1,8 +1,8 @@
-﻿/////////////////////////////////////////
-//.....................................//
-//Задать произвольный двумерный массив.//
-//Вывести сумму чисел в каждом столбце.//
-/////////////////////////////////////////
+﻿//////////////////////////////////////////////
+//.....................................///////
+//Задать произвольный двумерный массив.///////
+//Вывести ср арифметическое каждого столбца.//
+//////////////////////////////////////////////
 
 int[,] array = GenerateArray();
 OutcomeArray(array);
@@ -34,7 +34,8 @@ void OutcomeCount(int[,] array)
 {
     for (int j = 0; j < array.GetLength(1); j++)
     {
-        Console.WriteLine($"Cумма чисел столбца {j+1} равна: {CountInColumn(j, array)}");
+        Console.Write ($"Cреднее арифметическое чисел столбца {j+1} равна: ");
+        Console.WriteLine (Math.Round(CountInColumn(j, array),2));
     }
 }
 
@@ -61,12 +62,12 @@ int[,] GenerateArray()
 
 
 ///Подсчет столбцов
-long CountInColumn(int j, int[,] array)
+double CountInColumn(int j, int[,] array)
 {
-    long result = 0;
+    double result = 0;
     for (int i = 0; i < array.GetLength(0); i++)
     {
         result += array[i, j];
     }
-    return result;
+    return result/array.GetLength(0);
 }
